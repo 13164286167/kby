@@ -1,0 +1,17 @@
+body, dl, dd, ul, ol ,h1, h2, h3, h4 ,form, input, button, textarea, p, th, td{ margin:0; padding:0;}
+body{ font:14px/1.2 "\5FAE\8F6F\96C5\9ED1",arial,'Hiragino Sans GB'; color:#666; background: #fff; -webkit-font-smoothing: antialiased;}
+img{vertical-align: middle; border:none; max-width: 100%;}
+ul,ol{list-style:none outside none;}
+table{border-collapse:collapse; border-spacing:0;}
+button, input, select, textarea {font-size: 100%; vertical-align:middle;}
+a{ color:#242424; text-decoration:none;  }
+a:hover{ -text-decoration:none;}
+:focus {outline: 0 none;}
+h1,h2,h3,h4{ font-size:100%; font-weight:normal;}
+button, input[type="button"], input[type="reset"], input[type="submit"] {cursor: pointer; -webkit-appearance: button;-moz-appearance: button;}
+.text,.btn,textarea{font-family:"\5FAE\8F6F\96C5\9ED1",arial,'Hiragino Sans GB';}
+.wrap{ width:1280px; margin:auto;}
+.clearfix:after{ content:"."; clear:both; height:0; visibility:hidden; display:block;}
+.clearfix{*zoom:1;}
+.btn{ border: none; cursor: pointer;}
+.text{ border: 1px solid #e6e5e5; padding: 0 5px;}
